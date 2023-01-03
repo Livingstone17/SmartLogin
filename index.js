@@ -9,7 +9,7 @@ function fa(){
     document.getElementById("username").style.border="3px solid green" 
     document.getElementById("password").style.border="3px solid green" 
     bt.value="Login" 
-    bt.style.left="110px"; 
+    bt.style.left="120px"; 
     } 
     } 
     flag=1 
